@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XONE2rBWlYoF+N/NF4JVMAaNztHZ6O5/ZoPSWZPj2F+8fXAlUxcdB4SYxjqzQPREVfkx2IoEInXy6evNvSiLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fri\\source\\repos\\gmailc2\\mailc2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fri\\.nuget\\packages\\mailkit\\3.6.0\\mailkit.3.6.0.nupkg.sha512",
+    "C:\\Users\\fri\\.nuget\\packages\\mimekit\\3.6.0\\mimekit.3.6.0.nupkg.sha512",
+    "C:\\Users\\fri\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\fri\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\fri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\fri\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512",
+    "C:\\Users\\fri\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
